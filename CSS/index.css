@@ -1,0 +1,30 @@
+body{
+  background-color: #E9FFF8;
+}
+
+h1{
+  font-size: 30px;
+  color: #009A02;
+  font-weight: bold;
+  font-family: helvetica;
+}
+h2{
+  font-weight: bold;
+  color: #005201;
+  font-size:30px;
+  font-family: arial;
+}
+
+.allah{
+
+  font-size: 55px;
+}
+.uppercase{
+  text-transform: uppercase;
+}
+.allah.uppercase{
+  color: crimson;
+}
+h1 spandex{
+  color: yellow;
+}
