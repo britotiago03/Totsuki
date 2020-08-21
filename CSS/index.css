@@ -35,6 +35,14 @@ h1{
     color: #1B8E05;
   }
 
+  header img{
+    border-radius: 150px;
+    width: 200px;
+    height: 200px;
+    border: 8px solid #5C96D5;
+
+  }
+
   footer{
     background-color: #E6E8F9;
     text-align: center;
