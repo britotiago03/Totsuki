@@ -21,6 +21,26 @@ h1{
   }
 
   body{
+    margin: 0;
+
+  }
+
+  header{
     background-color: #E6E8F9;
+    text-align: center;
+
+  }
+
+  header h1{
+    color: #1B8E05;
+  }
+
+  footer{
+    background-color: #E6E8F9;
+    text-align: center;
+  }
+
+  footer h3{
+    color: black;
 
   }
