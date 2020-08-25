@@ -1,6 +1,5 @@
 	body{
 		margin: 0;
-		background-color: #E6E8F9;
 
 	}
 
@@ -21,3 +20,53 @@
 	    font-family: helvetica, arial;
 	    font-size: 17px;
 	  }
+
+	  h3{
+	  	font-family: sans;
+	  	font-size: 40px;
+
+
+	  }
+
+	  h4{
+	  	font-family: sans;
+	  	font-size: 18px;
+
+	  }
+
+  	header{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #E6E8F9;
+
+  	}
+
+  header img{
+    border-radius: 150px;
+    width: 200px;
+    height: 200px;
+    border: 8px solid #5C96D5;
+
+    }
+
+    footer{
+    background-color: #E6E8F9;
+    text-align: center;
+    padding-bottom: 10px;
+
+  }
+
+  	main{
+  		padding-left: 30px;
+
+  	}
+
+  	h3 a{
+	text-decoration-line: none;
+	color: #1B8E05;
+  	}
+
+  	footer a{
+  		color: black;
+  	}
