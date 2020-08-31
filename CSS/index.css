@@ -65,3 +65,10 @@ h1{
   footer a{
     color: black;
   }
+
+
+  a:hover{
+    color: #483a84;
+
+
+  }
